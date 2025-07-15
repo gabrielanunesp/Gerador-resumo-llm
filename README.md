@@ -27,7 +27,7 @@ Este projeto foi desenvolvido com o objetivo de explorar na prática como as IAs
 - Ter uma chave de API da OpenAI (obtenha em [https://platform.openai.com](https://platform.openai.com))
 - Python instalado no sistema
 - Biblioteca `openai` instalada (`pip install openai`)
-
+---
   ## Autor
 
 Gabriela Nunes de Paiva
@@ -36,6 +36,7 @@ Desenvolvedora apaixonada por tecnologia, especialmente Front-end e Inteligênci
 Estudante de Engenharia de Software, buscando sempre aprender e crescer na área de desenvolvimento.  
 Este projeto faz parte do meu portfólio e jornada profissional.
 
+---
 
 ## Como Usar
 
